@@ -1,0 +1,22 @@
+{
+  "name": "tea-demonstrationbravooos",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bravooos/tea-demonstrationBravooos.git"
+  },
+  "dependencies": {
+    "braooos": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bravooos/tea-demonstrationBravooos/issues"
+  },
+  "homepage": "https://github.com/Bravooos/tea-demonstrationBravooos#readme"
+}
