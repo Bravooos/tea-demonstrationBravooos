@@ -10,7 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/Bravooos/tea-demonstrationBravooos.git"
   },
-  "dependencies": {
+  "dependencies": {npm login
+  
     "tea-demonstrationbraooos": "1.0.0"
   },
   "author": "",
