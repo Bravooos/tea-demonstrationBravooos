@@ -1,13 +1,9 @@
 // Helper function to calculate the square of a number
 
-funct
-
-fu
-function square(number) {
+functio
+function calculateSquare(number) {
   
-  ret
-
-  
+ 
 return number * number;
 }
 
@@ -15,63 +11,46 @@ return number * number;
 }
 
 /
-
-}
 // Helper function to check if a number is even
 
-funct
+fun
 function isEven(number) {
   
-  retu
+ 
 return number % 2 === 0;
 }
 
+// Main function to demonstrate the helper functions
 
-}
-
-/
-// Helper function to find the maximum of two numbers
-
-func
-function findMax(a, b) {
+functi
+function main() {
   
-  ret
-return Math.max(a, b);
-}
-
-
-}
-// Example usage of the helper functions
-
-le
+  le
 let num = 5;
-
-c
-console.log(`The square of ${num} is ${square(num)}`);
-
-
-
-i
-if (isEven(num)) {
   
   conso
+console.log(`The square of ${num} is ${calculateSquare(num)}`);
 
- 
-console.log(`${num} is an even number.`);
-} else {
   
-  con
+
+if (isEven(num)) {
+    
+    consol
+
+  
+console.log(`${num} is an even number.`);
+  } 
+  } els
+else {
+    
+    c
 console.log(`${num} is an odd number.`);
+  }
 }
 
 
-}
+  }
+// Call the main function
 
-le
-let x = 10;
-
-l
-let y = 20;
-
-cons
-console.log(`The maximum of ${x} and ${y} is ${findMax(x, y)}`);
+main
+main();
