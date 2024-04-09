@@ -8,16 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bravooos/tea-demonstrationBravooos.git"
+    "url": "git+https://github.com/Bravooos/Bravooos.git"
   },
-  "dependencies": {npm login
-  
-    "tea-demonstrationbraooos": "1.0.0"
+  "dependencies": {
+    "tea-demonstrationDulenkoAleksandr": "1.0.0"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bravooos/tea-demonstrationBravooos/issues"
+    "url": "https://github.com/Bravooos/Bravooos/issues"
   },
-  "homepage": "https://github.com/Bravooos/tea-demonstrationBravooos#readme"
+  "homepage": "https://github.com/Bravooos/Bravooos#readme"
 }
